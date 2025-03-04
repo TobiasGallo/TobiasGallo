@@ -13,7 +13,7 @@
     - Advanced Python
     - Git
     - GitHub
-- 👷 I currently work as a developer for a company dedicated to selling online courses.
+- 👷 I currently work as a front-end developer for a company dedicated to selling online courses.
 - 👾 You can visit [MY WEBSITE]().<br>
 - 📫 Reach out to me at: tobiasgallo89@gmail.com
 - Outside tech, 🎮 I love playing videogames (I'm trying to develop mine), 🎵 listening to music, and 📖 reading books.
